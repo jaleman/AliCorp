@@ -6,3 +6,4 @@ AlemanClan Development Studio
 This project is for Velocity Fitness Boutique (VFB).
 The goal of the this project is to build and maintain the features and functions of the VFB website.
 
+Test
